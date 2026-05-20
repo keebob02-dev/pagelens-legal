@@ -1,22 +1,22 @@
 ---
 layout: default
 permalink: /terms
-title: StackAudit Terms
+title: PageLens Terms
 ---
 
-# StackAudit, Terms of Service
+# PageLens, Terms of Service
 
 **Effective date:** 2026-05-20
 
-Thanks for installing StackAudit. These Terms of Service ("Terms") are a contract between you ("you," "merchant") and **KRV Holdings LLC** ("StackAudit," "we," "us") and govern your use of the StackAudit Shopify app (the "App").
+Thanks for installing PageLens. These Terms of Service ("Terms") are a contract between you ("you," "merchant") and **KRV Holdings LLC** ("PageLens," "we," "us") and govern your use of the PageLens Shopify app (the "App").
 
 By installing or using the App, you agree to these Terms. If you don't agree, please uninstall.
 
 ---
 
-## 1. What StackAudit does
+## 1. What PageLens does
 
-StackAudit is a Shopify-embedded app that:
+PageLens is a Shopify-embedded app that:
 - Scans your public storefront homepage and identifies what scripts and resources are loading
 - Attributes each script to its likely owning app
 - Measures your storefront's speed score using third-party measurement services
@@ -24,17 +24,17 @@ StackAudit is a Shopify-embedded app that:
 - Detects images in below-the-fold templates that could load later for a speed win
 - Links you to the right file in Shopify's theme editor when you choose to fix something
 
-StackAudit is strictly read-only in v1. It does not modify your theme, your products, your customers, or any other store data.
+PageLens is strictly read-only in v1. It does not modify your theme, your products, your customers, or any other store data.
 
 ## 2. Your account and your responsibilities
 
-- You must be authorized to install and configure apps on the Shopify shop where you install StackAudit.
+- You must be authorized to install and configure apps on the Shopify shop where you install PageLens.
 - You agree not to abuse, reverse-engineer, scrape, or attempt to gain unauthorized access to the App or the underlying infrastructure.
 - When you choose to act on a finding by editing your theme in Shopify's theme editor, you are responsible for the change. Shopify keeps per-file revision history in the theme editor so you can restore any file you change by mistake.
 
 ## 3. Fixes and edits
 
-- StackAudit never writes to your theme. When we find a problem, we link you to the file in Shopify's theme editor with a single click.
+- PageLens never writes to your theme. When we find a problem, we link you to the file in Shopify's theme editor with a single click.
 - You stay in control of every change. Nothing happens unless you click "Save" inside Shopify's own editor.
 - If you delete or edit a file and regret it, Shopify's theme code editor shows the full revision history for that file. You can restore any prior version with one click.
 
@@ -48,7 +48,7 @@ StackAudit is strictly read-only in v1. It does not modify your theme, your prod
 
 ## 5. Trial
 
-StackAudit does not offer a free trial at launch. The **free tier is permanently free** so you can evaluate the product without time pressure. Upgrade to Pro when you want unlimited scans and automatic weekly checks.
+PageLens does not offer a free trial at launch. The **free tier is permanently free** so you can evaluate the product without time pressure. Upgrade to Pro when you want unlimited scans and automatic weekly checks.
 
 ## 6. Acceptable use
 
@@ -61,7 +61,7 @@ You agree NOT to:
 
 **The App is provided "AS IS."** While we test rigorously, no automated detector is perfect. We are not responsible for losses arising from:
 - A false-positive finding that the merchant chose to act on
-- Storefront issues unrelated to actions taken via StackAudit
+- Storefront issues unrelated to actions taken via PageLens
 - Outages or limits of Shopify, our third-party measurement providers, or our infrastructure providers
 - Performance metrics that don't match your business expectations
 
