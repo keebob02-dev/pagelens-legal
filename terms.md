@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /terms
+title: StackAudit Terms
+---
+
 # StackAudit — Terms of Service
 
 **Effective date:** 2026-05-20

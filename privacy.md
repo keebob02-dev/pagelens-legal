@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /privacy
+title: StackAudit Privacy
+---
+
 # StackAudit — Privacy Policy
 
 **Effective date:** 2026-05-20
