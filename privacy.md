@@ -1,15 +1,15 @@
 ---
 layout: default
 permalink: /privacy
-title: StackAudit Privacy
+title: PageLens Privacy
 ---
 
-# StackAudit — Privacy Policy
+# PageLens, Privacy Policy
 
 **Effective date:** 2026-05-20
 **Last updated:** 2026-05-20
 
-This Privacy Policy describes how StackAudit ("StackAudit," "we," "us," "our") collects, uses, and discloses information when you install and use the StackAudit Shopify app (the "App").
+This Privacy Policy describes how PageLens ("PageLens," "we," "us," "our") collects, uses, and discloses information when you install and use the PageLens Shopify app (the "App").
 
 **Plain-English summary.** We are a performance-audit tool. We look at what's loading on your storefront and at the files in your theme. We do not look at your customers, their orders, or anything about who is shopping at your store. We never sell your data. The only people who see your data are you (in the App's dashboard) and Shopify (because the App runs on top of their platform).
 
@@ -17,26 +17,26 @@ This Privacy Policy describes how StackAudit ("StackAudit," "we," "us," "our") c
 
 ## 1. Who we are
 
-StackAudit is operated by **KRV Holdings LLC**, located at **1285 Sanlor Ave, Apt 3, West Milton, OH 45383, USA**.
+PageLens is operated by **KRV Holdings LLC**, located at **1285 Sanlor Ave, Apt 3, West Milton, OH 45383, USA**.
 
 For privacy questions or data-access requests, contact **keebob02@gmail.com**.
 
 ## 2. What we collect
 
-When you install StackAudit, we collect and store the following on Shopify's infrastructure and our own servers (Fly.io / Railway, US-based):
+When you install PageLens, we collect and store the following on Shopify's infrastructure and our own servers (Fly.io / Railway, US-based):
 
 ### From Shopify (with your authorization)
-- **Shop identifier** — your `*.myshopify.com` domain
-- **OAuth access token** — used to make Shopify API calls on your behalf, encrypted at rest
-- **Theme file names and contents** — read via `read_themes` / `write_themes` scopes, used to detect ghost code from uninstalled apps and to audit image-loading patterns
-- **Subscription plan handle** — the StackAudit pricing tier you selected
+- **Shop identifier**, your `*.myshopify.com` domain
+- **OAuth access token**, used to make Shopify API calls on your behalf, encrypted at rest
+- **Theme file names and contents**, read via the `read_themes` scope, used to detect leftover files from uninstalled apps and to audit image-loading patterns. We never write to your theme.
+- **Subscription plan handle**, the PageLens pricing tier you selected
 
 ### From scanning your storefront
-- **Network resource list** — URLs, sizes, content types, and load timings of every script/stylesheet your public storefront homepage loads. Captured by a headless browser (Playwright) acting as a regular shopper visiting your homepage URL.
-- **Attribution metadata** — for each resource, which third-party app (if any) it appears to belong to, based on our curated app-domain database.
+- **Network resource list**, URLs, sizes, content types, and load timings of every script/stylesheet your public storefront homepage loads. Captured by a headless browser (Playwright) acting as a regular shopper visiting your homepage URL.
+- **Attribution metadata**, for each resource, which third-party app (if any) it appears to belong to, based on our curated app-domain database.
 
 ### From third parties
-- **Google PageSpeed Insights scores** — we ask Google to grade your storefront's performance using the public PageSpeed Insights API. This returns scores, metrics, and audit details. We store the raw response for display in our dashboard.
+- **Google PageSpeed Insights scores**, we ask Google to grade your storefront's performance using the public PageSpeed Insights API. This returns scores, metrics, and audit details. We store the raw response for display in our dashboard.
 
 ### What we explicitly do NOT collect
 - Any data about **your customers** (names, emails, addresses, orders, IPs, browsing history, payment information, cart contents)
@@ -44,14 +44,14 @@ When you install StackAudit, we collect and store the following on Shopify's inf
 - Any **personally identifiable information** belonging to shoppers
 - Anything **outside the public storefront homepage** for v1 scans
 
-We deliberately request the minimum Shopify scopes needed to do our job (`write_themes` for the ghost-file auto-fix; nothing customer-facing).
+We deliberately request the minimum Shopify scope needed to do our job (`read_themes` only; nothing customer-facing, no write access).
 
 ## 3. How we use the information
 
 - To run scans you requested and display results in the App
 - To detect leftover theme files from uninstalled apps ("ghost code")
 - To compute PageSpeed scores and identify performance regressions
-- To process billing (via Shopify's billing platform — we never see your payment info)
+- To process billing (via Shopify's billing platform, we never see your payment info)
 - To send service-related communications via your Shopify admin (in-app notifications only; no marketing email in v1)
 - To investigate and troubleshoot bugs you report
 
@@ -60,10 +60,10 @@ We deliberately request the minimum Shopify scopes needed to do our job (`write_
 We do **not** sell your data, ever.
 
 We share data only with:
-- **Shopify** — the platform our App runs on, which is necessary for authentication, billing, and API access
-- **Google** (PageSpeed Insights API) — we send your storefront URL so Google can grade it; we don't send any other data
-- **Our infrastructure provider** (Fly.io or Railway, US-based) — our servers run on their infrastructure
-- **Law enforcement, if legally compelled** — and only after exhausting legal options to limit disclosure
+- **Shopify**, the platform our App runs on, which is necessary for authentication, billing, and API access
+- **Google** (PageSpeed Insights API), we send your storefront URL so Google can grade it; we don't send any other data
+- **Our infrastructure provider** (Fly.io or Railway, US-based), our servers run on their infrastructure
+- **Law enforcement, if legally compelled**, and only after exhausting legal options to limit disclosure
 
 ## 5. Data retention
 
@@ -74,7 +74,7 @@ We share data only with:
 
 ## 6. Customer data requests (GDPR / CCPA)
 
-Because StackAudit doesn't collect customer-level data, customer data-access requests will always return **no records**. We respond to Shopify's mandatory `customers/data_request` and `customers/redact` webhooks by acknowledging the request — there is nothing to export or delete.
+Because PageLens doesn't collect customer-level data, customer data-access requests will always return **no records**. We respond to Shopify's mandatory `customers/data_request` and `customers/redact` webhooks by acknowledging the request, there is nothing to export or delete.
 
 ## 7. Security
 
@@ -93,7 +93,7 @@ You have the right to:
 
 ## 9. Children
 
-StackAudit is a business tool for merchants. It is not directed at children and we do not knowingly collect data from children.
+PageLens is a business tool for merchants. It is not directed at children and we do not knowingly collect data from children.
 
 ## 10. Changes to this policy
 
