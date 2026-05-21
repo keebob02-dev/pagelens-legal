@@ -17,7 +17,7 @@ This Privacy Policy describes how PageLens ("PageLens," "we," "us," "our") colle
 
 ## 1. Who we are
 
-PageLens is operated by **KRV Holdings LLC**, located at **1285 Sanlor Ave, Apt 3, West Milton, OH 45383, USA**.
+PageLens is operated by **Keenan V.**, a sole proprietor based in **Ohio, USA**.
 
 For privacy questions or data-access requests, contact **keebob02@gmail.com**.
 
