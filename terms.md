@@ -8,7 +8,7 @@ title: PageLens Terms
 
 **Effective date:** 2026-05-20
 
-Thanks for installing PageLens. These Terms of Service ("Terms") are a contract between you ("you," "merchant") and **Keenan V.**, a sole proprietor based in Ohio, USA ("PageLens," "we," "us"), and govern your use of the PageLens Shopify app (the "App").
+Thanks for installing PageLens. These Terms of Service ("Terms") are a contract between you ("you," "merchant") and **KRV Holdings LLC**, an Ohio limited liability company (USA) and the operator of the PageLens product ("PageLens," "we," "us"). These Terms govern your use of the PageLens Shopify app (the "App").
 
 By installing or using the App, you agree to these Terms. If you don't agree, please uninstall.
 
