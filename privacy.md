@@ -17,7 +17,7 @@ This Privacy Policy describes how PageLens ("PageLens," "we," "us," "our") colle
 
 ## 1. Who we are
 
-PageLens is operated by **Keenan V.**, a sole proprietor based in **Ohio, USA**.
+**PageLens** is a product of **KRV Holdings LLC**, an Ohio limited liability company (USA). KRV Holdings LLC operates the App and is the data controller responsible for the information described below.
 
 For privacy questions or data-access requests, contact **keebob02@gmail.com**.
 
